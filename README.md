@@ -82,4 +82,4 @@
 ---
 
 ## LANGUAGES
-- English, Amharic, Tigrigna and spoken Chinese
+- English, Amharic and Tigrigna
